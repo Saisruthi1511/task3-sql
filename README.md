@@ -24,6 +24,10 @@ The SQL queries were executed using an **online SQL IDE** (such as [SQL Fiddle](
 - **Aggregate Functions**: Used `SUM()` and `AVG()` to analyze total and average revenues.
 - **Views**: Created a view to calculate movie profits.
 
-## 🙋‍♂️ Contact
+## TASK LINK 
+
+https://sqliteonline.com/#sqltext=%23url-sqlite%3Ddb-sqlite%0D%0A%23tab-name%3DSQLite.4%0D%0A--%20View%20for%20profit%20analysis%0ACREATE%20VIEW%20movie_profit%20AS%0ASELECT%20title%2C%20box_office%20-%20budget%20AS%20profit%0AFROM%20movie_revenue%3B%0A
+
+## Contact
 
 **Saisruthi** [saisruthivasudevan6@gmail.com]
